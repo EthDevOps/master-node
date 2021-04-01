@@ -11,5 +11,5 @@ The location is undisclosed but this is an aerial photo of the building.
 
 ## Master Node Specification
 
-Currently awaiting authorication.
+Currently awaiting authorization.
 
